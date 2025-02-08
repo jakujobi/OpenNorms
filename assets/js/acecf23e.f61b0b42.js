@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopennorms=self.webpackChunkopennorms||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/OpenNorms/blog","blogTitle":"Blog","authorsListPath":"/OpenNorms/blog/authors"}')}}]);

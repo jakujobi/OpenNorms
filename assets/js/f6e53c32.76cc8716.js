@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopennorms=self.webpackChunkopennorms||[]).push([[2200],{4745:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/OpenNorms/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
