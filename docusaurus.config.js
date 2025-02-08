@@ -15,7 +15,7 @@ const config = {
   // Your production URL (GitHub Pages uses https://<username>.github.io)
   url: 'https://jakujobi.github.io',
   // Your repository name as the baseUrl, e.g. '/OpenNorms/'
-  baseUrl: '/OpenNorms/',
+  baseUrl: '/OpenNorms',
 
   // GitHub pages deployment config.
   organizationName: 'jakujobi', // Your GitHub username or org name
